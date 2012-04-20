@@ -1,0 +1,7 @@
+C:\Data\Code\NetExtensions\NetExtensions\Testing\Infrastructure\NetExtensions.Security.UnitTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Data\Code\NetExtensions\NetExtensions\Testing\Infrastructure\NetExtensions.Security.UnitTest\bin\Debug\NetExtensions.Security.UnitTest.dll
+C:\Data\Code\NetExtensions\NetExtensions\Testing\Infrastructure\NetExtensions.Security.UnitTest\bin\Debug\NetExtensions.Security.UnitTest.pdb
+C:\Data\Code\NetExtensions\NetExtensions\Testing\Infrastructure\NetExtensions.Security.UnitTest\bin\Debug\NetExtensions.Security.dll
+C:\Data\Code\NetExtensions\NetExtensions\Testing\Infrastructure\NetExtensions.Security.UnitTest\bin\Debug\NetExtensions.Security.pdb
+C:\Data\Code\NetExtensions\NetExtensions\Testing\Infrastructure\NetExtensions.Security.UnitTest\obj\Debug\NetExtensions.Security.UnitTest.dll
+C:\Data\Code\NetExtensions\NetExtensions\Testing\Infrastructure\NetExtensions.Security.UnitTest\obj\Debug\NetExtensions.Security.UnitTest.pdb

@@ -1,0 +1,8 @@
+C:\Users\j.rouleau\NExt\NExt\Binaries\NExt.Security.dll
+C:\Users\j.rouleau\NExt\NExt\Binaries\NExt.Security.pdb
+C:\Users\j.rouleau\NExt\NExt\Infrastructure\NExt.Security\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\j.rouleau\NExt\NExt\Infrastructure\NExt.Security\obj\Debug\NExt.Security.Resources.SecurityResources.resources
+C:\Users\j.rouleau\NExt\NExt\Infrastructure\NExt.Security\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\j.rouleau\NExt\NExt\Infrastructure\NExt.Security\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\j.rouleau\NExt\NExt\Infrastructure\NExt.Security\obj\Debug\NExt.Security.dll
+C:\Users\j.rouleau\NExt\NExt\Infrastructure\NExt.Security\obj\Debug\NExt.Security.pdb

@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{EC0DA68F-E44F-49F6-9056-F5BD78DB337A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Third Parties", "Third Parties", "{8D96AD96-34ED-498D-BDC6-63A941DFE8BB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2D3543A0-5FFC-4C1C-9F3D-5DB1832BDC00}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		NetExtensions.vsmdi = NetExtensions.vsmdi
+		SolutionInfo.cs = SolutionInfo.cs
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AzMan", "AzMan", "{A2FD7F80-62D9-4B19-B3E9-6BD274683B23}"
+	ProjectSection(SolutionItems) = preProject
+		Third Parties\AzMan\Interop.AZROLESLib.dll = Third Parties\AzMan\Interop.AZROLESLib.dll
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Testing", "Testing", "{4A160B09-F82C-40E2-90F5-93A191E59E0A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{58344635-B43D-493D-9BA3-FC0FAF83652E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetExtensions.Security", "Infrastructure\NetExtensions.Security\NetExtensions.Security.csproj", "{D6D846AF-8FA8-4743-90B3-96A412C29132}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetExtensions.Security.UnitTest", "Testing\Infrastructure\NetExtensions.Security.UnitTest\NetExtensions.Security.UnitTest.csproj", "{0357CDC5-AF39-4301-9A18-DFBAE3F34448}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = NetExtensions.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6D846AF-8FA8-4743-90B3-96A412C29132}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6D846AF-8FA8-4743-90B3-96A412C29132}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6D846AF-8FA8-4743-90B3-96A412C29132}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6D846AF-8FA8-4743-90B3-96A412C29132}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0357CDC5-AF39-4301-9A18-DFBAE3F34448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0357CDC5-AF39-4301-9A18-DFBAE3F34448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0357CDC5-AF39-4301-9A18-DFBAE3F34448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0357CDC5-AF39-4301-9A18-DFBAE3F34448}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D6D846AF-8FA8-4743-90B3-96A412C29132} = {EC0DA68F-E44F-49F6-9056-F5BD78DB337A}
+		{A2FD7F80-62D9-4B19-B3E9-6BD274683B23} = {8D96AD96-34ED-498D-BDC6-63A941DFE8BB}
+		{58344635-B43D-493D-9BA3-FC0FAF83652E} = {4A160B09-F82C-40E2-90F5-93A191E59E0A}
+		{0357CDC5-AF39-4301-9A18-DFBAE3F34448} = {58344635-B43D-493D-9BA3-FC0FAF83652E}
+	EndGlobalSection
+EndGlobal
