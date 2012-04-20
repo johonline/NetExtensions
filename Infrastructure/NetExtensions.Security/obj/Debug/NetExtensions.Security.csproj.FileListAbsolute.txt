@@ -1,0 +1,8 @@
+C:\Data\Code\NetExtensions\NetExtensions\Binaries\NetExtensions.Security.dll
+C:\Data\Code\NetExtensions\NetExtensions\Binaries\NetExtensions.Security.pdb
+C:\Data\Code\NetExtensions\NetExtensions\Infrastructure\NetExtensions.Security\obj\Debug\ResolveAssemblyReference.cache
+C:\Data\Code\NetExtensions\NetExtensions\Infrastructure\NetExtensions.Security\obj\Debug\NetExtensions.Security.Resources.SecurityResources.resources
+C:\Data\Code\NetExtensions\NetExtensions\Infrastructure\NetExtensions.Security\obj\Debug\GenerateResource.read.1.tlog
+C:\Data\Code\NetExtensions\NetExtensions\Infrastructure\NetExtensions.Security\obj\Debug\GenerateResource.write.1.tlog
+C:\Data\Code\NetExtensions\NetExtensions\Infrastructure\NetExtensions.Security\obj\Debug\NetExtensions.Security.dll
+C:\Data\Code\NetExtensions\NetExtensions\Infrastructure\NetExtensions.Security\obj\Debug\NetExtensions.Security.pdb
